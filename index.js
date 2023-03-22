@@ -27,7 +27,7 @@ const questions = () => {
             name: 'license',
             message: 'What is the name of the license you wish to use?',
             validate: validateInput
-        },
+        },        
         {
             name: 'contributing',
             message: 'Please add all contributors by their github username (seperated by a comma):',

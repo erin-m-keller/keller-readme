@@ -4,6 +4,7 @@
   "description": "A simple Node.js application that produces a quality README file.",
   "main": "index.js",
   "scripts": {
+    "start":"node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Erin Keller",
