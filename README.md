@@ -3,7 +3,7 @@
   # Readme Generator
   
   ## Description 
-  This application was created with [Node.js](https://nodejs.org/en),(Node.js File System Module)[https://www.w3schools.com/nodejs/nodejs_filesystem.asp], and [Inquirer](https://www.npmjs.com/package/inquirer). The application generates a README file based on user input.
+  This application was created with [Node.js](https://nodejs.org/en),(fs)[https://www.w3schools.com/nodejs/nodejs_filesystem.asp], and [Inquirer](https://www.npmjs.com/package/inquirer). The application generates a README file based on user input.
   
   ## Table of Contents
   * [Installation](#installation)
