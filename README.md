@@ -51,16 +51,19 @@
   ```
   
   ## Installation 
+  Ensure you are running Node.js v16.
+
   ``` bash
     npm i
   ```
-  
-  ## Usage 
+
   ``` bash
     npm start
   ```
 
-  The application will prompt you with multiple questions, once completed, it will generate a README file titled "GENERATED-README.md"
+  > The application will prompt you with multiple questions, once completed, it will generate a README file titled "GENERATED-README.md"
+  
+  ## Usage 
 
   ## Working Example
 
