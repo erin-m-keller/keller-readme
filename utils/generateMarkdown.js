@@ -82,7 +82,7 @@ const generateMarkdown = data => {
   ${data.tests}
   
   ## Questions
-  If you have any questions about this projects, please contact me directly at ${renderUserEmail(data.questionsEmail)}.  
+  If you have any questions about this project, please contact me directly at ${renderUserEmail(data.questionsEmail)}.  
   You can view more of my projects at ${renderUserGithub(data.questionsGithub)}.
   `;
 };
