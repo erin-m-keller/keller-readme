@@ -1,5 +1,3 @@
-  [![MIT license](https://img.shields.io/badge/License-MIT-purple.svg)](https://lbesson.mit-license.org/)
-
   # Readme Generator
   
   ## Description 
@@ -70,7 +68,7 @@
   [Generated File](https://github.com/erin-m-keller/keller-readme/blob/main/GENERATED-README.md)
   
   ## License 
-  This project is covered under the MIT license. To learn more, click the license at the top of this file.
+  [![MIT license](https://img.shields.io/badge/License-MIT-purple.svg)](https://lbesson.mit-license.org/)
   
   ## Contributors 
   [Erin Keller](https://github.com/erin-m-keller)
