@@ -1,5 +1,5 @@
 
-  [![CC license](https://img.shields.io/badge/License-CC-yellow.svg)](https://creativecommons.org/licenses/by-nd/4.0)
+  [![CC license](https://img.shields.io/badge/License-CC-black.svg)](https://creativecommons.org/licenses/by-nd/4.0)
 
   # Sample Title
   
@@ -15,10 +15,10 @@
   * [Questions](#questions)
   
   ## Installation 
-  Sample Instructions
+  Sample Installation Instructions
   
   ## Usage 
-  Sample Usage
+  N/A
   
   ## License 
   This project is covered under the CC license. To learn more, click the license at the top of this file.
