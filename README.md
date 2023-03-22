@@ -3,7 +3,7 @@
   # Readme Generator
   
   ## Description 
-  This application was created with [Node.js](https://nodejs.org/en),[Node.js File System Module](https://www.w3schools.com/nodejs/nodejs_filesystem.asp), and [Inquirer](https://www.npmjs.com/package/inquirer). The application generates a README file based on user input.
+  This application was created with [Node.js](https://nodejs.org/en), [Node.js File System Module](https://www.w3schools.com/nodejs/nodejs_filesystem.asp), and [Inquirer](https://www.npmjs.com/package/inquirer). The application generates a README file based on user input.
   
   ## Table of Contents
   * [Installation](#installation)
@@ -21,8 +21,9 @@
   ## Usage 
   ``` bash
     npm start
-    respond to the prompts
   ```
+
+  The application will prompt you with multiple questions, once completed, it will generate a README file titled "GENERATED-README.md"
   
   ## License 
   This project is covered under the MIT license. To learn more, click the license at the top of this file.
