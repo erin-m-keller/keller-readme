@@ -8,7 +8,6 @@
   * [Acceptance Criteria](#acceptance-criteria)
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Working Example](#working-example)
   * [Generated File Example](#generated-file-example)
   * [License](#license)
   * [Contributors](#contributors)
@@ -64,8 +63,7 @@
   > The application will prompt you with multiple questions, once completed, it will generate a README file titled "GENERATED-README.md"
   
   ## Usage 
-
-  ## Working Example
+  Video goes here.
 
   ## Generated File Example
   [Generated File](https://github.com/erin-m-keller/keller-readme/blob/main/GENERATED-README.md)
@@ -81,6 +79,6 @@
   * [ChatGPT](https://openai.com/blog/chatgpt): Used ChatGPT to generate the regex used within the application.
   
   ## Questions
-  If you have any questions about this projects, please contact me directly at [aestheticartist@gmail.com](aestheticartist@gmail.com).  
-  You can view more of my projects at https://github.com/erin-m-keller.
+  If you have any questions about this project, please contact me directly at [aestheticartist@gmail.com](aestheticartist@gmail.com).  
+  You can view more of my projects [here](https://github.com/erin-m-keller).
   
