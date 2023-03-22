@@ -13,7 +13,8 @@
   * [Working Example](#working-example)
   * [Generated File Example](#generated-file-example)
   * [License](#license)
-  * [Contributing](#contributing)
+  * [Contributors](#contributors)
+  * [Outside Resources](#outside-resources)
   * [Tests](#tests)
   * [Questions](#questions)
 
@@ -71,8 +72,12 @@
   ## License 
   This project is covered under the MIT license. To learn more, click the license at the top of this file.
   
-  ## Contributing 
+  ## Contributors 
   [Erin Keller](https://github.com/erin-m-keller)
+
+  ## Outside Resources
+
+  * [ChatGPT](https://openai.com/blog/chatgpt): Used ChatGPT to generate the regex used within the application.
   
   ## Questions
   If you have any questions about this projects, please contact me directly at [aestheticartist@gmail.com](aestheticartist@gmail.com).  
