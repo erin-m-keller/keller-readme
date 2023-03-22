@@ -53,7 +53,7 @@ const questions = () => {
         {
             type: 'input',
             name: 'tests',
-            message: 'Please add all contributors by their github username (seperated by a comma):',
+            message: 'Please add any tests for the application:',
             validate: validateInput
         },
         {
@@ -80,9 +80,8 @@ const validateInput = async (input) => {
 };
 
 const validateContributors = async (input) => {
-    let withoutSpace = /^[a-zA-Z0-9]+(,[a-zA-Z0-9]+)*$/,
-        withSpace = /^[a-zA-Z0-9]+(\s*,\s*[a-zA-Z0-9]+)*$/;
-    if (withoutSpace.test(input) || withSpace.test(input)) {
+    let contributorRegex = /^[a-zA-Z0-9_-]+(?:\s*,\s*[a-zA-Z0-9_-]+)*$/;
+    if (contributorRegex.test(input)) {
       return true;
     }
     return 'You must enter the usernames, separated by a comma.';
@@ -96,20 +95,24 @@ const validateEmail = async (input) => {
     return 'You must enter a valid email address.';
 };
 
-// TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+function writeToFile(fileName, data) {
+    fs.writeFile(fileName, data, (err) => {
+        if (err) {
+            console.error(err);
+        } else {
+            console.log('README file generated successfully!');
+        }
+    });
+}
 
-// TODO: Create a function to initialize app
 function init() {
     questions().then(answers => {
         return readmeMarkdown(answers);
     }).then(data => {
-        //return writeFile(data);
-        console.log("data: " + data);
+        return writeToFile("GENERATED-README.md",data);
     }).catch(err => {
-        console.log("err: " + err)
+        console.log("Error: " + err)
     });
 }
 
-// Function call to initialize app
 init();
