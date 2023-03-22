@@ -50,17 +50,17 @@
   ```
   
   ## Installation 
-  Ensure you are running Node.js v16.
-
+  * Ensure you are running Node.js v16.  
+  * Clone the repository.
+  * Install the dependencies.
   ``` bash
     npm i
   ```
-
+  * Start the application.
   ``` bash
     npm start
   ```
-
-  > The application will prompt you with multiple questions, once completed, it will generate a README file titled "GENERATED-README.md"
+  > Answer the prompts to generate a README file.
   
   ## Usage 
   Video goes here.
