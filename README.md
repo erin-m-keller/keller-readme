@@ -67,12 +67,7 @@
   
   ## Usage
   
-  https://user-images.githubusercontent.com/2955501/227287470-4bec2196-2dba-4944-9563-09985f9760ba.mp4
-  
-  <video width="830" height="467" controls>
-    <source src="https://user-images.githubusercontent.com/2955501/227287470-4bec2196-2dba-4944-9563-09985f9760ba.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  https://user-images.githubusercontent.com/2955501/227319886-9a96eed5-7e2c-4965-aec6-0da54e9a2496.mp4
 
   > Click play to watch the video.
 
