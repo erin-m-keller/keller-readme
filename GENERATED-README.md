@@ -1,5 +1,5 @@
 
-  [![GPL license](https://img.shields.io/badge/License-GPL-purple.svg)](http://perso.crans.org/besson/LICENSE.html)
+  [![GPL license](https://img.shields.io/badge/License-GPL-green.svg)](http://perso.crans.org/besson/LICENSE.html)
 
   # Sample Title
   
@@ -15,10 +15,10 @@
   * [Questions](#questions)
   
   ## Installation 
-  Sample Instructions
+  Sample instructions
   
   ## Usage 
-  Sample Usage
+  Sample usage
   
   ## License 
   This project is covered under the GPL license. To learn more, click the license at the top of this file.
@@ -27,7 +27,7 @@
   [erin-m-keller](https://github.com/erin-m-keller),[erin-m-keller](https://github.com/erin-m-keller),[erin-m-keller](https://github.com/erin-m-keller)
   
   ## Tests
-  Sample Tests
+  Sample tests
   
   ## Questions
   If you have any questions about this project, please contact me directly at [aestheticartist@gmail.com](aestheticartist@gmail.com).  
