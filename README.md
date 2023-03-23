@@ -65,8 +65,10 @@
   ```
   > Answer the prompts to generate a README file.
   
-  ## Usage 
-  ![Demo](./assets/images/screen-recording.gif)
+  ## Usage
+  <video width="830" height="466" controls>
+    <source src="./assets/videos/screen-recording.mkv" type="video/mkv">
+  </video>
 
   ## Generated File Example
   [Generated File](https://github.com/erin-m-keller/keller-readme/blob/main/GENERATED-README.md)
