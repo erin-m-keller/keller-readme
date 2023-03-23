@@ -66,7 +66,7 @@
   > Answer the prompts to generate a README file.
   
   ## Usage 
-  Video goes here.
+  ![Demo](./assets/images/screen-recording.gif)
 
   ## Generated File Example
   [Generated File](https://github.com/erin-m-keller/keller-readme/blob/main/GENERATED-README.md)
