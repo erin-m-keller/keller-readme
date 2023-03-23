@@ -21,7 +21,7 @@
   Sample usage instructions
   
   ## License 
-  This project is covered under the GPL license. To learn more, click the license at the top of this file.
+  This project is covered under the GPL license. To learn more, click the license at the top of this page.
   
   ## Contributing 
   [erin-m-keller](https://github.com/erin-m-keller),[erin-m-keller](https://github.com/erin-m-keller),[erin-m-keller](https://github.com/erin-m-keller)
@@ -30,6 +30,6 @@
   Sample tests
   
   ## Questions
-  If you have any questions about this project, please contact me directly at [aestheticartist@gmail.com](aestheticartist@gmail.com).  
+  If you have any questions, please contact me directly at [aestheticartist@gmail.com](aestheticartist@gmail.com).  
   You can view more of my projects at https://github.com/erin-m-keller.
   

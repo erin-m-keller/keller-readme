@@ -25,7 +25,7 @@ function renderLicenseSection(license) {
   if (!license) {
     return "";
   } else {
-    return `This project is covered under the ${license} license. To learn more, click the license at the top of this file.`
+    return `This project is covered under the ${license} license. To learn more, click the license at the top of this page.`
   }
 }
 
@@ -82,7 +82,7 @@ const generateMarkdown = data => {
   ${data.tests}
   
   ## Questions
-  If you have any questions about this project, please contact me directly at ${renderUserEmail(data.questionsEmail)}.  
+  If you have any questions, please contact me directly at ${renderUserEmail(data.questionsEmail)}.  
   You can view more of my projects at ${renderUserGithub(data.questionsGithub)}.
   `;
 };
