@@ -27,7 +27,7 @@
   [erin-m-keller](https://github.com/erin-m-keller),[erin-m-keller](https://github.com/erin-m-keller),[erin-m-keller](https://github.com/erin-m-keller)
   
   ## Tests
-  Sample tests instructions
+  Sample tests
   
   ## Questions
   If you have any questions about this project, please contact me directly at [aestheticartist@gmail.com](aestheticartist@gmail.com).  
