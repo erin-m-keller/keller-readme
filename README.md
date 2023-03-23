@@ -33,8 +33,8 @@
   THEN this is displayed as the title of the README
   WHEN I enter a description, installation instructions, usage information, contribution  
   guidelines, and test instructions
-  THEN this information is added to the sections of the README entitled Description, Installation,  
-  Usage, Contributing, and Tests
+  THEN this information is added to the sections of the README entitled Description,  
+  Installation, Usage, Contributing, and Tests
   WHEN I choose a license for my application from a list of options
   THEN a badge for that license is added near the top of the README and a notice is added to the  
   section of the README entitled License that explains which license the application is  
