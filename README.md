@@ -66,8 +66,8 @@
   > Answer the prompts to generate a README file.
   
   ## Usage
-
-  https://erin-m-keller.github.io/keller-readme/assets/videos/screen-recording.mp4
+  
+  https://user-images.githubusercontent.com/2955501/227280542-15a9c9ab-12cf-4925-8b4c-f57ddc8ed1df.mp4
 
   > Click play to watch the video.
 
