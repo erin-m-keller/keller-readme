@@ -12,7 +12,6 @@
   * [License](#license)
   * [Contributors](#contributors)
   * [Outside Resources](#outside-resources)
-  * [Tests](#tests)
   * [Questions](#questions)
 
   ## User Story
