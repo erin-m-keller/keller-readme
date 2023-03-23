@@ -66,9 +66,10 @@
   > Answer the prompts to generate a README file.
   
   ## Usage
-  <video width="830" height="466" controls>
-    <source src="./assets/videos/screen-recording.mkv" type="video/mkv">
-  </video>
+
+  https://drive.google.com/file/d/19zwk7_AI-KguO92ZSqvpP8tfvoEbised/view?usp=share_link
+
+  > Click play to watch the video.
 
   ## Generated File Example
   [Generated File](https://github.com/erin-m-keller/keller-readme/blob/main/GENERATED-README.md)
