@@ -1,10 +1,10 @@
 
-  [![GPL license](https://img.shields.io/badge/License-GPL-green.svg)](http://perso.crans.org/besson/LICENSE.html)
+  [![GPL license](https://img.shields.io/badge/License-GPL-purple.svg)](http://perso.crans.org/besson/LICENSE.html)
 
-  # Sample Title
+  # Sample title
   
   ## Description 
-  Sample Description
+  Sample description
   
   ## Table of Contents
   * [Installation](#installation)
@@ -15,10 +15,10 @@
   * [Questions](#questions)
   
   ## Installation 
-  Sample instructions
+  Sample installation instructions
   
   ## Usage 
-  Sample usage
+  Sample usage instructions
   
   ## License 
   This project is covered under the GPL license. To learn more, click the license at the top of this file.
