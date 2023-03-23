@@ -67,7 +67,7 @@
   
   ## Usage
 
-  https://drive.google.com/file/d/19zwk7_AI-KguO92ZSqvpP8tfvoEbised/view?usp=share_link
+  https://erin-m-keller.github.io/keller-readme/assets/videos/screen-recording.mkv
 
   > Click play to watch the video.
 
