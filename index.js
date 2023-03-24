@@ -121,7 +121,7 @@ const validateEmail = async (input) => {
 };
 
 /**
- * @validateEmail
+ * @writeToFile
  * Writes the README data to a file
  */
 function writeToFile(fileName, data) {
