@@ -4,6 +4,7 @@
   This application was created with [Node.js](https://nodejs.org/en), [Node.js File System Module](https://www.w3schools.com/nodejs/nodejs_filesystem.asp), and [Inquirer](https://www.npmjs.com/package/inquirer). The application generates a README file based on user input.
   
   ## Table of Contents
+  * [Technology Stack](#technology-stack)
   * [User Story](#user-story)
   * [Acceptance Criteria](#acceptance-criteria)
   * [Installation](#installation)
@@ -13,6 +14,11 @@
   * [Contributors](#contributors)
   * [Outside Resources](#outside-resources)
   * [Questions](#questions)
+
+  ## Technology Stack
+
+![javaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![nodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
   ## User Story
   ```md
