@@ -74,7 +74,7 @@
   
   https://user-images.githubusercontent.com/2955501/227319886-9a96eed5-7e2c-4965-aec6-0da54e9a2496.mp4
 
-  > Click play to watch the video.
+  > Click play to watch the video. Enjoy the music!
 
   ## Generated File Example
   [Generated File](https://github.com/erin-m-keller/keller-readme/blob/main/GENERATED-README.md)
